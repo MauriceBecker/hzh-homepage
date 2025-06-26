@@ -1,2 +1,3 @@
-# hzh-homepage
-Website der Hausverwaltung Zentral Hessen
+# Hausverwaltung Zentral Hessen
+
+Dies ist die React-Homepage für HZH.
